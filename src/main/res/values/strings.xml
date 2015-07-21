@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiImagePicker sample</string>
+    <string name="about_title">About</string>
+    <string name="about_body_html">
+
+        <![CDATA[
+      Sample for Multi-Image Picker Library ,  developed by  <b>yazeed44</b>.<br/>
+
+       <a href=\'https://github.com/yazeed44\'>Github</a>&nbsp;&nbsp;
+       <a href=\'https://google.com/+yazeedAlmakoushi\'>Google+</a>&nbsp;&nbsp;
+       <a href=\'mailto:g--56@hotmail.com\'>Email</a>
+
+]]>
+
+
+    </string>
+    <string name="pick_multiple_images_btn">Pick Multiple images (6 is the limit)</string>
+    <string name="pick_single_image_btn">Pick single image</string>
+
+</resources>
