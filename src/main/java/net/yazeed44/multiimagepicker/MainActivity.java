@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements Picker.PickListen
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main1);
 
         mImageSampleRecycler = (RecyclerView) findViewById(R.id.images_sample);
         setupRecycler();
